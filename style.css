@@ -302,7 +302,6 @@ header {
 
 .testimonial-card p {
   margin-bottom: var(--size-350);
-  opacity: 0.9;
 }
 
 .testimonial-card figure {
@@ -413,6 +412,7 @@ footer {
 
 .footer-p p {
   max-width: 40ch;
+  opacity: 1;
 }
 
 .footer-p i {
